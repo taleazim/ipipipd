@@ -1,1 +1,213 @@
+#EXTM3U x-tvg-url="https://raw.githubusercontent.com/rideordie16/epg/main/bin/guide.xml,https://epghub.xyz/epg/EPG-TR.xml"
+#EXTINF:-1 tvg-logo="https://i.hizliresim.com/i21k4te.png" group-title="GENEL",🌿GENEL🌿
+https://ornek.m3u8
 
+#EXTINF:-1 tvg-id="TRT1.tr" tvg-name="TRT1" tvg-logo="https://cdn-i.pr.trt.com.tr/trttv/w750/h750/q100/10660277.png" group-title="GENEL",TRT1
+https://trt.daioncdn.net/trt-1/master_720p.m3u8?app=web
+
+#EXTINF:-1 tvg-id="TRT HABER" tvg-name="TRT HABER" tvg-logo="https://cdn-i.pr.trt.com.tr/trttv/w750/h750/q100/8971102.png" group-title="GENEL",TRT HABER
+https://tv-trthaber.medya.trt.com.tr/master_720.m3u8
+EXTINF:-1 tvg-id="TRT SPOR" tvg-name="TRT SPOR" tvg-logo="https://cdn-i.pr.trt.com.tr/trttv/w750/h750/q100/13687983.png" group-title="GENEL",TRT SPOR
+https://trt.daioncdn.net/trtspor/master_480p.m3u8?platform=trtspor&sid=6sknaoigvegn&app=9b65474e-8197-4899-aabb-321fcf6dd9eb&ce=2
+
+#EXTINF:-1 tvg-id="A Spor" tvg-name="A Spor" tvg-logo="https://i.imgur.com/ZhkZzLf.png" group-title="GENEL",A Spor
+https://raw.githubusercontent.com/tecotv2025/tecotv/refs/heads/main/playlist/A_Spor.m3u8
+
+#EXTINF:-1 tvg-id="BEİN SPORTS HABER" tvg-name="BEİN SPORTS HABER" tvg-logo="https://i.ibb.co/GdkQ5mY/bein-sports-haber.png" group-title="GENEL",BEİN SPORTS HABER
+https://raw.githubusercontent.com/tecotv2025/tecotv/refs/heads/main/playlist/Bein_Spor_Haber.m3u8
+
+#EXTINF:-1 tvg-id="DMAX" tvg-name="DMAX" tvg-logo="https://d3ckc0u56niq67.cloudfront.net/conf/images/dmax_ly3.png" group-title="GENEL",DMAX
+https://dogus.daioncdn.net/dmax/dmax_720p.m3u8?sig=af527ce6e5d69222a29b858f32df80df&token=TkQ1M21pVmhJTkxGRlFzV21QMjhJVFhnMG5HRjYrOFhZKzRLQ2RlUDJ6VT0=&sid=6t2iv0z0s1w4&app=5a02c599-d17e-4982-9b04-090934d51af7&ce=3
+
+#EXTINF:-1 tvg-id="TLC" tvg-name="TLC" tvg-logo="https://img-tlctv.mncdn.com/logo.png" group-title="GENEL",TLC
+https://dogus.daioncdn.net/tlc/tlc_720p.m3u8?sig=876201ff1569c18da4b66965b764faf2&token=UkZBSVp0ODR1aGdoZ3FSVFc4RnVKSGlsZHVjNVRacHFSM2JKSng1OW5OVT0=&sid=7u5ircm7us8f&app=1aca0aa1-06e3-41ff-a8e5-38d7df475469&ce=3
+
+#EXTINF:-1 tvg-id="ATV" tvg-name="ATV" tvg-logo="https://i.ibb.co/n1SCYqN/atv.png" group-title="GENEL",ATV
+https://rnttwmjcin.turknet.ercdn.net/lcpmvefbyo/atv/atv_720p.m3u8
+
+#EXTINF:-1 tvg-id="KANALD.tr" tvg-name="KANAL D" tvg-logo="https://cdn.freelogovectors.net/wp-content/uploads/2018/03/kanal_d_logo.png" group-title="GENEL",KANAL D
+https://demiroren.daioncdn.net/kanald/kanald_720p.m3u8?sig=a3ede9d7d8f4d77a9debeb89fe22752a&sid=7ukpuml6xczc&app=da2109ea-5dfe-4107-89ab-23593336ed61&ce=3
+
+#EXTINF:-1 tvg-id="STAR TV" tvg-name="STAR TV" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTODT1C4SB518JljOlb7etd8VRmpGQJSyiFVw&s" group-title="GENEL",STAR TV
+https://dogus.daioncdn.net/startv/startv_720p.m3u8?sig=cc68fc2b65324f67e9c8ee2e9d56d1db&sid=7ukqybd3tddq&app=a20ac41e-bdc3-4aa1-934d-26b484480ac9&ce=3
+
+#EXTINF:-1 tvg-id="SHOW TV" tvg-name="SHOW TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/f1/Logo_of_Show_TV.png" group-title="GENEL",SHOW TV
+https://ciner.daioncdn.net/showtv/showtv_720p.m3u8?ex=1664766175&sig=ae489f32a87b0659d25bd88421729530&st=RBzhSuGauna0OGld-DJUVA&tv=1&sid=7ukrat2ms282&app=4bc856ef-4c68-4a94-bc87-37dfaaa66558&ce=3
+
+#EXTINF:-1 tvg-id="TV8" tvg-name="TV8" tvg-logo="https://upload.wikimedia.org/wikipedia/tr/6/68/Tv8_Yeni_Logo.png" group-title="GENEL",TV8
+https://tv8.daioncdn.net/tv8/tv8_720p.m3u8?sig=9a72d1716d1a0f0d17fc09ee7671a7ab&sid=7ukpe2oj02fk&app=7ddc255a-ef47-4e81-ab14-c0e5f2949788&ce=3
+
+#EXTINF:-1 tvg-id="TV8.5" tvg-name="TV8.5" tvg-logo="https://tv.canlitvme.com/poster/tv8-5.png" group-title="GENEL",TV8.5
+https://tv8.daioncdn.net/tv8bucuk/tv8bucuk_720p.m3u8?sig=3e1e7e77bd21da485aa2c59a649bcb17&sid=6t07ysfz9eyd&app=bf58ab52-4865-4c81-b223-26b41009801e&ce=3
+
+#EXTINF:-1 tvg-id="BEYAZ TV" tvg-name="BEYAZ TV" tvg-logo="https://www.beyaztv.com.tr/images/logo.png" group-title="GENEL",BEYAZ TV
+https://beyaztv-live.daioncdn.net/beyaztv/beyaztv_720p.m3u8 
+
+#EXTINF:-1 tvg-id="CİNE1" tvg-name="CİNE1" tvg-logo="https://cine1.com.tr/images/cine1tvas.png" group-title="GENEL",CİNE1
+https://live.artidijitalmedya.com/artidijital_cine1/cine1/playlist.m3u8
+
+#EXTINF:-1 tvg-id="CNBC-E" tvg-name="CNBC-E" tvg-logo="https://www.digiturkburada.com.tr/kanal3/kanal-buyuk/cnbc-e-buyuk.png?rkt=DfS6Tgv6Hjr93k3" group-title="GENEL",CNBC-E
+https://raw.githubusercontent.com/tecotv2025/tecotv/refs/heads/main/playlist/CNBC_E.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/tr/3/36/Tivibu_spor_logosu.jpg" group-title="GENEL",Tivibu Spor
+https://streams.uzunmuhalefet.com/stream/e47153e0-42fe-4980-8570-e840d1cc1cf4.m3u8
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/tr/3/36/Tivibu_spor_logosu.jpg" group-title="GENEL",Tivibu Spor
+https://trn03.tulix.tv/gt-tivibuspor1/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://i0.wp.com/resim.yayins.com/spor/tivibusp1.png" group-title="GENEL",Tivibu Spor 1
+#EXTVLCOPT:http-user-agent=Dalvik/2.1.0 (Linux; U; Android 13; Samsung F1833B Build/TP1A.280629.015)
+http://65.108.239.207/t1/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://i0.wp.com/resim.yayins.com/ek1/tivibu2.png" group-title="GENEL",Tivibu Spor 2
+#EXTVLCOPT:http-user-agent=Dalvik/2.1.0 (Linux; U; Android 13; Samsung F1833B Build/TP1A.280629.015)
+http://65.108.239.207/t2/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://i0.wp.com/resim.yayins.com/ek1/tivibu3.png" group-title="GENEL",Tivibu Spor 3
+#EXTVLCOPT:http-user-agent=Dalvik/2.1.0 (Linux; U; Android 13; Samsung F1833B Build/TP1A.280629.015)
+http://65.108.239.207/t3/index.m3u8
+#EXTINF:0 group-title="Спорт",Матч Премьер
+#EXTGRP:Спорт
+http://s05.wsbof.com/nash-futbol/mpegts?token=a0ac444f
+#EXTINF:0 group-title="Спорт",Матч Премьер HD
+#EXTGRP:Спорт
+http://s05.wsbof.com/match-premier-hd-orig/mpegts?token=a0ac444f
+#EXTINF:0 group-title="Спорт",Футбол
+#EXTGRP:Спорт
+http://s05.wsbof.com/futbol/mpegts?token=a0ac444f
+#EXTINF:0 group-title="Спорт",Футбол HD
+#EXTGRP:Спорт
+http://s05.wsbof.com/futbol-hd-orig/mpegts?token=a0ac444f
+#EXTINF:0 group-title="Спорт",МАТЧ! Футбол 1
+#EXTGRP:Спорт
+http://s05.wsbof.com/match-futbol-1/mpegts?token=a0ac444f
+#EXTINF:0 group-title="Спорт",МАТЧ! Футбол 1 HD
+#EXTGRP:Спорт
+http://s05.wsbof.com/match-futbol-1-hd-orig/mpegts?token=a0ac444f
+#EXTINF:0 group-title="Спорт",МАТЧ! Футбол 2
+#EXTGRP:Спорт
+http://s05.wsbof.com/match-futbol-2/mpegts?token=a0ac444f
+#EXTINF:0 group-title="Спорт",МАТЧ! Футбол 2 HD
+#EXTGRP:Спорт
+http://s05.wsbof.com/match-futbol-2-hd-orig/mpegts?token=a0ac444f
+#EXTINF:0 group-title="Спорт",МАТЧ! Футбол 3
+#EXTGRP:Спорт
+http://s05.wsbof.com/match-futbol-3/mpegts?token=a0ac444f
+#EXTINF:0 group-title="Спорт",МАТЧ! Футбол 3 HD
+#EXTGRP:Спорт
+http://s05.wsbof.com/match-futbol-3-hd-orig/mpegts?token=a0ac444f
+#EXTINF:0 group-title="Спорт",Матч ТВ
+#EXTGRP:Спорт
+http://s05.wsbof.com/match/mpegts?token=a0ac444f
+#EXTINF:0 group-title="Спорт",Матч ТВ HD
+#EXTGRP:Спорт
+http://s05.wsbof.com/match-tv-hd-orig/mpegts?token=a0ac444f
+#EXTINF:0 group-title="Спорт",Матч! Игра
+#EXTGRP:Спорт
+http://s05.wsbof.com/match-igra/mpegts?token=a0ac444f
+#EXTINF:0 group-title="Спорт",Матч! Игра HD
+#EXTGRP:Спорт
+http://s05.wsbof.com/match-igra-hd-orig/mpegts?token=a0ac444f
+#EXTINF:0 group-title="Спорт",Матч! Арена
+#EXTGRP:Спорт
+http://s05.wsbof.com/match-arena/mpegts?token=a0ac444f
+#EXTINF:0 group-title="Спорт",Матч! Арена HD
+#EXTGRP:Спорт
+http://s05.wsbof.com/match-arena-hd-orig/mpegts?token=a0ac444f
+#EXTINF:0 group-title="Спорт",Матч! Страна
+#EXTGRP:Спорт
+http://s05.wsbof.com/match-nash-sport/mpegts?token=a0ac444f
+#EXTINF:0 group-title="Спорт",Матч! Страна HD
+#EXTGRP:Спорт
+http://s05.wsbof.com/match-strana-hd/mpegts?token=a0ac444f
+#EXTINF:0 group-title="Спорт",Матч! Планета
+#EXTGRP:Спорт
+http://s05.wsbof.com/match-planeta/mpegts?token=a0ac444f
+#EXTINF:0 group-title="Спорт",Старт HD
+#EXTGRP:Спорт
+http://s05.wsbof.com/start-hd/mpegts?token=a0ac444f
+#EXTINF:0 group-title="Спорт",KHL
+#EXTGRP:Спорт
+http://s05.wsbof.com/khl-tv/mpegts?token=a0ac444f
+#EXTINF:0 group-title="Спорт",KHL HD
+#EXTGRP:Спорт
+http://s05.wsbof.com/khl-tv-hd-orig/mpegts?token=a0ac444f
+#EXTINF:0 group-title="Спорт",KHL Prime HD
+#EXTGRP:Спорт
+http://s05.wsbof.com/khl-prime-hd-orig/mpegts?token=a0ac444f
+#EXTINF:0 group-title="Спорт",Хоккейный HD
+#EXTGRP:Спорт
+http://s05.wsbof.com/hokkejnyj-hd/mpegts?token=a0ac444f
+#EXTINF:0 group-title="Спорт",Футбольный HD
+#EXTGRP:Спорт
+http://s05.wsbof.com/futbolnyj-hd/mpegts?token=a0ac444f
+#EXTINF:0 group-title="Спорт",Спортивный HD
+#EXTGRP:Спорт
+http://s05.wsbof.com/sportivnyj-hd/mpegts?token=a0ac444f
+#EXTINF:0 group-title="Спорт",Мир Баскетбола
+#EXTGRP:Спорт
+http://s05.wsbof.com/mir-basketbola/mpegts?token=a0ac444f
+#EXTINF:0 group-title="Спорт",Super Tennis HD
+#EXTGRP:Спорт
+http://s05.wsbof.com/super-tennis-hd/mpegts?token=a0ac444f
+#EXTINF:0 group-title="Спорт",Sport1 Baltic
+#EXTGRP:Спорт
+http://s05.wsbof.com/sport1-baltic/mpegts?token=a0ac444f
+#EXTINF:0 group-title="Спорт",Sport2 Baltic
+#EXTGRP:Спорт
+http://s05.wsbof.com/sport2-baltic/mpegts?token=a0ac444f
+#EXTINF:0 group-title="Спорт",Viasat Sport
+#EXTGRP:Спорт
+http://s05.wsbof.com/viasat-sport/mpegts?token=a0ac444f
+#EXTINF:0 group-title="Спорт",Viasat Sport HD
+#EXTGRP:Спорт
+http://s05.wsbof.com/viasat-sport-hd-orig/mpegts?token=a0ac444f
+#EXTINF:0 group-title="Спорт",Trace Sport Stars HD
+#EXTGRP:Спорт
+http://s05.wsbof.com/trace-sport-stars-hd/mpegts?token=a0ac444f
+#EXTINF:0 group-title="Спорт",Eurosport 1
+#EXTGRP:Спорт
+http://s05.wsbof.com/evrosport/mpegts?token=a0ac444f
+#EXTINF:0 group-title="Спорт",Eurosport 1 HD
+#EXTGRP:Спорт
+http://s05.wsbof.com/eurosport-hd-orig/mpegts?token=a0ac444f
+#EXTINF:0 group-title="Спорт",Eurosport 2
+#EXTGRP:Спорт
+http://s05.wsbof.com/evrosport-2/mpegts?token=a0ac444f
+#EXTINF:0 group-title="Спорт",Eurosport 2 HD
+#EXTGRP:Спорт
+http://s05.wsbof.com/eurosport2-hd-orig/mpegts?token=a0ac444f
+#EXTINF:0 group-title="Спорт",Setanta Sports 1 HD
+#EXTGRP:Спорт
+http://s05.wsbof.com/setanta-sport-hd-orig/mpegts?token=a0ac444f
+#EXTINF:0 group-title="Спорт",Setanta Sports 2 HD
+#EXTGRP:Спорт
+http://s05.wsbof.com/setanta-sport-plus-hd-orig/mpegts?token=a0ac444f
+#EXTINF:0 group-title="Спорт",Setanta Sports Ukraine HD
+#EXTGRP:Спорт
+http://s05.wsbof.com/setanta-sport-ua-hd-orig/mpegts?token=a0ac444f
+#EXTINF:0 group-title="Спорт",Setanta Sports + Ukraine HD
+#EXTGRP:Спорт
+http://s05.wsbof.com/setanta-sport-plus-ua-hd-orig/mpegts?token=a0ac444f
+#EXTINF:0 group-title="Спорт",QSport HD
+#EXTGRP:Спорт
+http://s05.wsbof.com/qsport-hd/mpegts?token=a0ac444f
+#EXTINF:0 group-title="Спорт",Спорт 1
+#EXTGRP:Спорт
+http://s05.wsbof.com/sport1-ua/mpegts?token=a0ac444f
+#EXTINF:0 group-title="Спорт",Спорт 2
+#EXTGRP:Спорт
+http://s05.wsbof.com/sport2-ua/mpegts?token=a0ac444f
+#EXTINF:0 group-title="Спорт",XSport
+#EXTGRP:Спорт
+http://s05.wsbof.com/xsport/mpegts?token=a0ac444f
+#EXTINF:0 group-title="Спорт",XSport HD
+#EXTGRP:Спорт
+http://s05.wsbof.com/xsport-ua-hd/mpegts?token=a0ac444f
+#EXTINF:0 group-title="Спорт",XSPORT Plus HD
+#EXTGRP:Спорт
+http://s05.wsbof.com/xsport-plus-ua-hd/mpegts?token=a0ac444f
+#EXTINF:0 group-title="Спорт",M-1 Global
+#EXTGRP:Спорт
+http://s05.wsbof.com/m1-global-tv/mpegts?token=a0ac444f
+#EXTINF:0 group-title="Спорт",M-1 Global HD
+#EXTGRP:Спорт
